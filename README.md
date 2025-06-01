@@ -34,7 +34,7 @@
 
 <!-- Project Overview -->
 
-### Project Overview
+## Project Overview
 
 This project is an AI-driven interactive storytelling web application developed as part of my final-year dissertation. It allows users to create their own dynamic stories by submitting a prompt and making choices as the narrative progresses. Each story unfolds chapter by chapter, accompanied by AI-generated illustrations to enhance the experience.
 
@@ -44,7 +44,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 <!-- Key Features -->
 
-### Key Features
+## Key Features
 
 <li> Prompt-based storytelling: Users enter their own story idea to begin a custom narrative. </li>
 <li> Branching storylines: Stories evolve based on user choices at key moments. </li>
@@ -68,7 +68,7 @@ https://youtu.be/RfLT3vof4zU
 
 <!-- Technologies Used -->
 
-### Technologies Used
+## Technologies Used
 
 <li> Backend: Python (Flask) </li>
 <li> Frontend: HTML, CSS, JavaScript </li>
