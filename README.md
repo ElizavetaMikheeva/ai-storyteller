@@ -77,7 +77,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 ## Project Structure
 
-<pre> <code>```plaintext . ├── static/ │ ├── css/ │ ├── images/ │ └── js/ ├── templates/ │ └── index.html ├── app.py ├── characters_extraction.py ├── requirements.txt ├── README.md ```</code> </pre>
+ . ├── static/ │ ├── css/ │ ├── images/ │ └── js/ ├── templates/ │ └── index.html ├── app.py ├── characters_extraction.py ├── requirements.txt ├── README.md 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
