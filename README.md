@@ -13,14 +13,6 @@
 </div>
 
 ---
-
-<!-- App Preview -->
-
-## App Preview
-
-To see how Chrona works, please follow the link below to watch a short video that demonstrates its main features and output:
-
----
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents:
@@ -29,6 +21,7 @@ To see how Chrona works, please follow the link below to watch a short video tha
     <li><a href="#about-the-project">Project Overview</a> </li>
     <li><a href="#built-with">Key Features </a></li>
     <li><a href="#built-with">Technologies Used</a></li>
+    <li><a href="#built-with">App Preview</a></li>
     <li> <a href="#getting-started">Project Structure</a> </li>
     <li> <a href="#getting-started">Setup Instructions</a> </li>
     <li> <a href="#getting-started">Future improvements to be made</a> </li>
@@ -60,6 +53,14 @@ The app simulates a digital book, offering a visually rich and engaging format. 
  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+
+<!-- App Preview -->
+
+## App Preview
+
+To see how Chrona works, please follow the link below to watch a short video that demonstrates its main features and output:
+
+----
 
 <!-- Technologies Used -->
 
