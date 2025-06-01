@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <a href="https://github.com/ElizavetaMikheeva/ai-storyteller">
-    <img width="484" alt="image" src="https://github.com/ElizavetaMikheeva/ai-storyteller/blob/main/static/images/new_logo.png">
+    <img width="484" alt="image" src="https://github.com/ElizavetaMikheeva/ai-storyteller/blob/main/static/images/Chrona.png">
     
   </a>
 
