@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/say3dd/team-29">
-    <img width="484" alt="image" src="https://github.com/ElizavetaMikheeva/ai-storyteller/images/new_logo.png">
+  <a href="https://github.com/ElizavetaMikheeva/ai-storyteller">
+    <img width="484" alt="image" src="https://github.com/ElizavetaMikheeva/ai-storyteller/static/images/new_logo.png">
   </a>
 
 <h3 align="center"> Chrona </h3>
