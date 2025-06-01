@@ -18,15 +18,15 @@
 ## Table of Contents:
 
   <ol>
-    <li><a href="#about-the-project">Project Overview</a> </li>
-    <li><a href="#built-with">Key Features </a></li>
-    <li><a href="#built-with">Technologies Used</a></li>
-    <li><a href="#built-with">App Preview</a></li>
-    <li> <a href="#getting-started">Project Structure</a> </li>
-    <li> <a href="#getting-started">Setup Instructions</a> </li>
-    <li> <a href="#getting-started">Future improvements to be made</a> </li>
-    <li><a href="#the-team">Disclaimer</a></li>
-    <li><a href="#the-team">Author</a></li>
+    <li><a href="#project-overview">Project Overview</a> </li>
+    <li><a href="#key-features">Key Features </a></li>
+    <li><a href="#technologies-used">Technologies Used</a></li>
+    <li><a href="#app-preview">App Preview</a></li>
+    <li> <a href="#project-structure">Project Structure</a> </li>
+    <li> <a href="#setup-instructions">Setup Instructions</a> </li>
+    <li> <a href="#future-improvements-to-be-made">Future improvements to be made</a> </li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#author">Author</a></li>
   </ol>
 
 ---
