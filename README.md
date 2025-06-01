@@ -38,7 +38,7 @@
 
 This project is an AI-driven interactive storytelling web application developed as part of my final-year dissertation. It allows users to create their own dynamic stories by submitting a prompt and making choices as the narrative progresses. Each story unfolds chapter by chapter, accompanied by AI-generated illustrations to enhance the experience.
 
-The app simulates a digital book, offering a visually rich and engaging format. By combining text generation, image synthesis, and user nteraction, the project explores how generative AI can be used to support creativity and narrative immersion.
+The app simulates a digital book, offering a visually rich and engaging format. By combining text generation, image synthesis, and user interaction, the project explores how generative AI can be used to support creativity and narrative immersion.
 
 ---
 
