@@ -83,7 +83,6 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 1. Clone the Repository
    - git clone https://github.com/your-username/interactive-ai-storyteller.git
-   - cd interactive-ai-storyteller
 2. Install Dependencies
    - pip install -r requirements.txt
 3. Add Your OpenAI API Key
