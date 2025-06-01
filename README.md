@@ -1,38 +1,32 @@
 <div align="center">
-  <a href="https://github.com/say3dd/team-29">
-    <img width="484" alt="image" src="https://github.com/say3dd/team-29/assets/123840502/1d84db3a-2dd4-415a-ac06-d452e7ca4497">
+  <a href="https://github.com/ElizavetaMikheeva/ai-storyteller">
+    <img width="484" alt="image" src="https://github.com/ElizavetaMikheeva/ai-storyteller/blob/main/static/images/new_logo.png">
+    
   </a>
 
 <h3 align="center"> Chrona </h3>
 
   <p align="center">
-    Interactive AI Storyteller with Visuals & User-Driven Choices
+    Chrona. Interactive AI Storyteller with Visuals & User-Driven Choices
     <br/>
   </p>
 </div>
 
 ---
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents:
 
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-         <li><a href="#built-with">Key Features </a></li>
-        <li><a href="#built-with">Technologies Used</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#the-team">The Team</a></li>
+    <li><a href="#about-the-project">Project Overview</a> </li>
+    <li><a href="#built-with">Key Features </a></li>
+    <li><a href="#built-with">Technologies Used</a></li>
+    <li><a href="#built-with">App Preview</a></li>
+    <li> <a href="#getting-started">Project Structure</a> </li>
+    <li> <a href="#getting-started">Setup Instructions</a> </li>
+    <li> <a href="#getting-started">Future improvements to be made</a> </li>
+    <li><a href="#the-team">Disclaimer</a></li>
+    <li><a href="#the-team">Author</a></li>
   </ol>
 
 ---
@@ -60,6 +54,14 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 ---
 
+<!-- App Preview -->
+
+## App Preview
+
+To see how Chrona works, please follow the link below to watch a short video that demonstrates its main features and output:
+
+----
+
 <!-- Technologies Used -->
 
 ### Technologies Used
@@ -77,17 +79,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 ## Project Structure
 
-.
-├── static/
-│ ├── css/
-│ ├── images/
-│ └── js/
-├── templates/
-│ └── index.html
-├── app.py
-├── characters_extraction.py
-├── requirements.txt
-├── README.md
+ . ├── static/ │ ├── css/ │ ├── images/ │ └── js/ ├── templates/ │ └── index.html ├── app.py ├── characters_extraction.py ├── requirements.txt ├── README.md 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,11 +87,10 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 <!-- Setup Instuctions -->
 
-## Setup Instuctions
+## Setup Instructions
 
 1. Clone the Repository
    - git clone https://github.com/your-username/interactive-ai-storyteller.git
-   - cd interactive-ai-storyteller
 2. Install Dependencies
    - pip install -r requirements.txt
 3. Add Your OpenAI API Key
