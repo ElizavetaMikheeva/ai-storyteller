@@ -60,6 +60,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 To see how Chrona works, please follow the link below to watch a short video that demonstrates its main features and output: 
 https://youtu.be/RfLT3vof4zU
+
 ----
 
 <!-- Technologies Used -->
