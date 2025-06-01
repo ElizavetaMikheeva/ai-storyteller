@@ -77,17 +77,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 ## Project Structure
 
-.
-├── static/
-│ ├── css/
-│ ├── images/
-│ └── js/
-├── templates/
-│ └── index.html
-├── app.py
-├── characters_extraction.py
-├── requirements.txt
-├── README.md
+<pre> <code>```plaintext . ├── static/ │ ├── css/ │ ├── images/ │ └── js/ ├── templates/ │ └── index.html ├── app.py ├── characters_extraction.py ├── requirements.txt ├── README.md ```</code> </pre>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +125,7 @@ The app simulates a digital book, offering a visually rich and engaging format. 
 
 This project was developed for educational and research purposes only as part of a university dissertation. **Commercial use, distribution, or resale of this application or its components is strictly prohibited.** All rights reserved by the author.
 
-## <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
