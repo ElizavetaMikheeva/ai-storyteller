@@ -7,13 +7,20 @@
 <h3 align="center"> Chrona </h3>
 
   <p align="center">
-    Interactive AI Storyteller with Visuals & User-Driven Choices
+    Chrona. Interactive AI Storyteller with Visuals & User-Driven Choices
     <br/>
   </p>
 </div>
 
 ---
 
+<!-- App Preview -->
+
+## App Preview
+
+To see how Chrona works, please follow the link below to watch a short video that demonstrates its main features and output:
+
+---
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents:
