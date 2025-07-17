@@ -26,7 +26,6 @@
     <li> <a href="#project-structure">Project Structure</a> </li>
     <li> <a href="#setup-instructions">Setup Instructions</a> </li>
     <li> <a href="#future-improvements-to-be-made">Future improvements to be made</a> </li>
-    <li><a href="#disclaimer">Disclaimer</a></li>
     <li><a href="#author">Author</a></li>
   </ol>
 
@@ -121,16 +120,6 @@ https://youtu.be/RfLT3vof4zU
 <li>Add a button or section that shows ready-made prompts to inspire users and help them begin writing.</li>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-<!-- Disclaimer -->
-
-## Disclaimer
-
-This project was developed for educational and research purposes only as part of a university dissertation. **Commercial use, distribution, or resale of this application or its components is strictly prohibited.** All rights reserved by the author.
-
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
